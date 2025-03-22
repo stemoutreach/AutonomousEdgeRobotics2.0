@@ -8,5 +8,5 @@
 - [SATA I/II/III Hard Drive Adapter](https://www.amazon.com/dp/B011M8YACM)
 - [256GB SLC Cache 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD](https://www.amazon.com/dp/B0B6ZCMSQ3)
 
- //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PackageWithGC.jpg" width="600" > 
- //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/RobotKit.jpg" width="600" > 
+ //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/PackageWithGC.jpg" width="600" > 
+ //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/RobotKit.jpg" width="600" > 
