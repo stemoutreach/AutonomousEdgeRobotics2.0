@@ -2,11 +2,13 @@
 
 ## What you will need
 
-- [MasterPi - with Raspberry Pi 5 8GB](https://www.amazon.com/Hiwonder-Raspberry-Robotic-Mecanum-Beginners/dp/B0CBK9NZ1W)
-- [2 Portable Monitors (example) ](https://www.amazon.com/ARZOPA-Portable-Monitor-17-3-Inch/dp/B0CC4TQGTT)
-- [CanaKit Raspberry Pi 500](https://www.canakit.com/raspberry-pi-500-desktop-kit.html)
-- [SATA I/II/III Hard Drive Adapter](https://www.amazon.com/dp/B011M8YACM)
-- [256GB SLC Cache 3D NAND TLC 2.5 Inch SATA III Internal Solid State Drive SSD](https://www.amazon.com/dp/B0B6ZCMSQ3)
+- [Raspberry Pi 500 Computer Kit](https://www.canakit.com/raspberry-pi-500-desktop-kit.html)
+- [Raspberry Pi 5 8GB (for the robot)](https://www.canakit.com/raspberry-pi-5-8gb.html)
+- [Portable Monitor 15.6inch](https://www.amazon.com/Portable-Monitor-15-6inch-Computer-Protector/dp/B088D8JG3L)
+- [Pi to monitor connector - TBD based on monitor needs](https://www.amazon.com/Twozoh-Adapter-Braided-90%C2%B0Degree-Support/dp/B0BZYS7JKH?th=1)
+- [6650 Rechargeable Battery](https://www.amazon.com/dp/B0943LKVHW)
+- [Right Angled Micro HDMI to HDMI Adapter Cable](https://www.amazon.com/gp/product/B09PYXLK23)
+- [Amazon Basics 12W One-Port USB-A Wall Charger (2.4A)](https://www.amazon.com/dp/B0773J79KC )
+- [MasterPi Hiwonder AI Vision Robot Arm with Mecanum Wheels Car Powered by Raspberry Pi 5 (without Pi5)](https://www.hiwonder.com/collections/ros-robot/products/armpi-pro?variant=40954569130071)
 
- //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/PackageWithGC.jpg" width="600" > 
- //<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/RobotKit.jpg" width="600" > 
+ <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/BOM.jpg" width="600" > 
