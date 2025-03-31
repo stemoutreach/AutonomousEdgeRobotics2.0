@@ -11,4 +11,4 @@
 - [Amazon Basics 12W One-Port USB-A Wall Charger (2.4A)](https://www.amazon.com/dp/B0773J79KC )
 - [MasterPi Hiwonder AI Vision Robot Arm with Mecanum Wheels Car Powered by Raspberry Pi 5 (without Pi5)](https://www.hiwonder.com/collections/ros-robot/products/armpi-pro?variant=40954569130071)
 
- <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/BOM.jpg" width="600" > 
+  <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/BOM.jpg" width="600" > 
