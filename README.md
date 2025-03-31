@@ -1,6 +1,6 @@
 # Autonomous Edge Robotics 2.0: Navigate, Detect, Interact
 
-updated 03/22/2025
+updated 03/30/2025
 
 ## [Bill of Materials](BillofMaterials.md)
 
@@ -10,9 +10,9 @@ updated 03/22/2025
 
 1. Raspberry Pi
 1. Python
-1. Jupyter Notebook 
 1. Robotics 
 1. OpenCV
+2. AprilTags
 
 ## Steps
 
@@ -30,11 +30,6 @@ Explore Capabilities
   - [Learn Python](https://programiz.pro/learn/master-python)
   - [Beginner’s Python Tutorial](https://python.land/python-tutorial)
   - [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
-
-- Intro to Jupyter Notebook
-  - [Jupyter Notebook In 10 Minutes](https://youtu.be/H9Iu49E6Mxs?si=16GzQfBY0RFZm-9YJupyter)
-  - [Notebooks: The Ultimate Guide](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook)
-  - [Jupyter Notebook Complete Beginner Guide](https://youtu.be/5pf0_bpNbkw?si=MB17xF2j9rnYH9sX)
 
 - OpenCV: Open Source Computer Vision Library
   - [OpenCV About](https://opencv.org/about)
