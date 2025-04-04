@@ -9,6 +9,6 @@
 - [6650 Rechargeable Battery](https://www.amazon.com/dp/B0943LKVHW)
 - [Right Angled Micro HDMI to HDMI Adapter Cable](https://www.amazon.com/gp/product/B09PYXLK23)
 - [Amazon Basics 12W One-Port USB-A Wall Charger (2.4A)](https://www.amazon.com/dp/B0773J79KC )
-- [MasterPi Hiwonder AI Vision Robot Arm with Mecanum Wheels Car Powered by Raspberry Pi 5 (without Pi5)](https://www.hiwonder.com/collections/ros-robot/products/armpi-pro?variant=40954569130071)
+- [MasterPi Hiwonder AI Vision Robot Arm with Mecanum Wheels Car Powered by Raspberry Pi 5 (without Pi5)](https://www.hiwonder.com/collections/raspberrypi-bionic-robot/products/masterpi?variant=40948133036119)
 
   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/BOM.jpg" width="600" > 
