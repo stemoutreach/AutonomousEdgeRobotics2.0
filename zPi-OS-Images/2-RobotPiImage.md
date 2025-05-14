@@ -40,7 +40,8 @@
 1. **Install tensorflow lite and OpenVC**
 
     ~~~
-    sudo pip3 install opencv-contrib-python
+    sudo python3 -m pip install --upgrade pip
+    sudo pip install opencv-python opencv-contrib-python
     ~~~
 
 1. **View OpenCV version that was installed (4.10.0)**
