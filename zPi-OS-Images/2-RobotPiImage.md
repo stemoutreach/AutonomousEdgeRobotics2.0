@@ -51,6 +51,13 @@
     ~~~
     OpenCV version = 4.10.0
 
+1. **Intall April Tag library**
+
+    ~~~
+    sudo pip install pupil-apriltags
+    ~~~
+
+
 1. **(Optional)Install Juptyer Notebook**
 
     ~~~
