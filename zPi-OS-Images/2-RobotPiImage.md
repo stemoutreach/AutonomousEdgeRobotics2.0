@@ -49,7 +49,7 @@
     ~~~
     sudo python3 -c "import cv2; print(cv2.__version__)"
     ~~~
-    OpenCV version = 4.10.0
+    OpenCV version = 4.11.0
 
 1. **Intall April Tag library**
 
