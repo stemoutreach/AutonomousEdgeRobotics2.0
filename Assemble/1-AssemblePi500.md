@@ -1,36 +1,13 @@
-# **1 Assemble Desktop**
+# **1 Assemble Pi 500 Keyboard and connect monitor**
 
 ## Steps:
 
-**CanaKit installation video** : www.canakit.com/pi5-case
+**CanaKit installation video** : https://www.canakit.com/raspberry-pi-500-desktop-kit.html
+
+https://datasheets.raspberrypi.com/pi500/raspberry-pi-500-product-brief.pdf 
 
 **1. Unpack the Canakit**
 
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2254.jpg" width="400" > 
-
-**2. Open Racpberry Pi, Pi Case, fan, SD card and heat sync**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2255.jpg" width="400" > 
-
-**3.Install heat sync**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2256.jpg" width="400" > 
-
-**4. Insert Raspberry Pi into case bottom**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2257.jpg" width="400" > 
-
-**5. Plug in fan**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2258.jpg" width="400" > 
-
-**6. Add case, snap fan into the case top and close the top**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/IMG_2259.jpg" width="400" > 
-
-**7. Turn case over and insert SD card**
-
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/image0.jpeg" width="400" > 
 
 **8. Plug in monitor and power Raspberry Pi**
 
