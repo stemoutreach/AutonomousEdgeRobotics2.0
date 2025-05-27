@@ -1,52 +1,41 @@
-# **1 Raspberry Pi 500 Setup**
+# **1 Setup Raspberry Pi 500 with monitor**
 
+## 🧰 Materials Needed
 
-## Prerequisites:
+* Raspberry 500 kit
+* SD card for the 500
+* Portable monitor
+* Micro HDMI to HDMI Adapter (to connect the pi to the monitor's HDMI cable)
+* Wifi connection info
 
-1. SD card is in the Pi 500
-1. Pi 500 is connected to monitor and keyboard
-1. Power is connected and Pi 500 is running
+## 📝 Instructions
 
-//<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiDesktop.jpg" width="500" > 
+1. **Assemble Hardware**: Insert the SD card and connect the monitor, keyboard and mouse to your Raspberry Pi 500.
 
-## Steps:
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/500Connection.jpg" width="400" > <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/500ConnectCloseup.jpg" width="400" >
+
+1. **Boot the Pi**: Plug in the power for and wait for the OS to load.
+
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/500Setup.jpg" width="500" > 
 
 1. **Change defaul password and hostname**
 
    Open the Configuation tool at **Pi -> Preferences -> Raspberry Pi Configuation** and follow instructions. Make the hostname unique. Maybe use your team name or initials.   
    
-   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiConfigPWandHost.jpg" width="500" > 
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/PiConfigPWandHost.jpg" width="500" > 
 
 
 1. **Connect to WiFi**
 
-   Check the network icon in the top right side of the Taskbar. If the network icon looks like the image below, click the new=twork icon and select the correct network to connect to. 
+   Check the network icon in the top right side of the Taskbar. If the network icon looks like the image below, click the network icon and select the correct network to connect to. 
 
-   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/wifisetup-01.jpg" width="200" > 
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/wifisetup-01.jpg" width="200" > 
    
 1. **Open a Terminal window**
 
    Throughout this workshop, you will be asked to open a Terminal window when there is a commend to enter. You can open a terminal window by using the menu bar at the top of the screen (see image below) or use and use Ctrl+alt+t. 
 
-   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/OpenTerminal2.jpg" width="500" > 
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/OpenTerminal2.jpg" width="500" > 
    
 
-1. **Run Camera test**
 
-   Open a terminal window and run the following.
-
-    ~~~
-    python CameraTest.py
-    ~~~
-
-1. **Jupyter Lab Connection** 
-  
-   ~~~
-   cd /home/pi/Desktop/JupyterNotebooks
-   jupyter notebook --ip='*' --port=8888 
-   ~~~
-
-   First time login - create a password
-   - Copy the token from the terminal window 
-   - Open a browser and connect to http://XXX.XXX.XXX.XXX:8888
-   - Use the token copied from the terminal window and paste it in the section **Setup a Password** then add your own password 
