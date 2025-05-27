@@ -1,5 +1,7 @@
 # **1 Setup Raspberry Pi 500 with monitor**
 
+The purpose of the Raspberry Pi 500 is to connect to the robot
+
 ## 🧰 Materials Needed
 
 * Raspberry 500 kit
