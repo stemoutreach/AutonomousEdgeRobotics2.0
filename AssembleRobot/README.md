@@ -1,4 +1,4 @@
-# **2 Assemble Robot**
+# **Assemble Robot**
 
 ## 1 Unpack the robot
 <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/RobotUnpacked.jpg" width="400" > 
