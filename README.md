@@ -4,7 +4,7 @@ updated 03/30/2025
 
 ## [Bill of Materials](BillofMaterials.md)
 
- <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/2025Setup500Robot.jpg" width="600" > 
+# <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics2.0/blob/main/zzimages/2025Setup500Robot.jpg" width="600" > 
 
 ## Learning Goals:
 
