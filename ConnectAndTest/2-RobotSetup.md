@@ -47,7 +47,7 @@
    - right back  
 
     ~~~
-    sudo python MasterPi/HiwonderSDK/Servo_test.py
+    sudo python /home/pi/MasterPi/HiwonderSDK/Servo_test.py
     ~~~
 
 1. **Run Camera test**
