@@ -30,6 +30,9 @@
 
    <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/wifisetup-01.jpg" width="200" > 
 
+1. **Get the assigned IP for the robot**
+
+Hover the mouse cursor ver the active WiFi icon and copy the assigned IP address. This IP will be used to connect the Pi500 to the robot.   
 
 1. **Run start up script**
   
